@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+cpimgs/__init__.py
+cpimgs/cpimgs.py
+cpimgs/data/CPD_name2BRD_ID.csv
+cpimgs/data/metadata
+cpimgs_yzhang250.egg-info/PKG-INFO
+cpimgs_yzhang250.egg-info/SOURCES.txt
+cpimgs_yzhang250.egg-info/dependency_links.txt
+cpimgs_yzhang250.egg-info/top_level.txt

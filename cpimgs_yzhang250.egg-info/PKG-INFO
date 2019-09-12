@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: cpimgs-yzhang250
+Version: 0.1.0
+Summary: A package to get DMSO plates and wells coordinates, get CPD plates and wells coordinates, get images of the cells treated by the CPD and nearby DMSO.
+Home-page: https://github.com/yzhang250
+Author: Ye Zhang
+Author-email: yzhang250@gmail.com
+License: UNKNOWN
+Description: #cpimgs
+        
+        ## 1. Installation
+        _pip install cpimgs_
+        
+        ## 2. Instruction
+        Use this package to check drug corresponding plates and wells. \
+        1. The output is a python dictionary. \
+        2. The dict can be viewed in console by _print_ function.\
+        3. The plates and wells info can be viewed in console as well.
+        4. Images will be shown automatically by function _getPlotsByNameAndChn_
+        
+        ## 3. Note
+        The package is still actively under dev. The data is far from curated. Chemical names is a huge problem.
+        
+        ## 4. Disclaimer
+        The DMSO plots shown are random DMSO plots in the same well from the drug, not necessarily the representative ones.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
