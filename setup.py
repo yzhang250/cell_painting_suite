@@ -10,7 +10,7 @@ setuptools.setup(
             'cpimgs': ['metadata*', 'CPD*'],
         },
     name="cpimgs-yzhang250",
-    version="0.1.0",
+    version="0.1.3",
     author="Ye Zhang",
     author_email="yzhang250@gmail.com",
     description="A package to get DMSO plates and wells coordinates, get CPD plates and wells coordinates, get images of " +

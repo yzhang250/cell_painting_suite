@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fa32748-bbb4-4fa5-ad6b-332e546937a2" name="Default Changelist" comment="" />
+    <list default="true" id="1fa32748-bbb4-4fa5-ad6b-332e546937a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dist/cpimgs-yzhang250-0.1.1.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/cpimgs-yzhang250-0.1.2.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/cpimgs-yzhang250-0.1.3.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/cpimgs_yzhang250-0.1.1-py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/cpimgs_yzhang250-0.1.2-py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/cpimgs_yzhang250-0.1.3-py3-none-any.whl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/cpimgs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/cpimgs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/lib/cpimgs/cpimgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/build/lib/cpimgs/cpimgs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpimgs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/cpimgs/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpimgs/cpimgs.py" beforeDir="false" afterPath="$PROJECT_DIR$/cpimgs/cpimgs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cpimgs_yzhang250.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/cpimgs_yzhang250.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,13 +30,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="yzhang250" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1QefEi17nmSPEhKRKC4OMQWuoSZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,6 +84,7 @@
       <updated>1568135872841</updated>
       <workItem from="1568135878726" duration="2284000" />
       <workItem from="1568138184061" duration="8994000" />
+      <workItem from="1568745444252" duration="3879000" />
     </task>
     <servers />
   </component>
@@ -72,10 +96,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

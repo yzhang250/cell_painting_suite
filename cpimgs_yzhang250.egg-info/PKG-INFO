@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: cpimgs-yzhang250
-Version: 0.1.0
+Version: 0.1.3
 Summary: A package to get DMSO plates and wells coordinates, get CPD plates and wells coordinates, get images of the cells treated by the CPD and nearby DMSO.
 Home-page: https://github.com/yzhang250
 Author: Ye Zhang
